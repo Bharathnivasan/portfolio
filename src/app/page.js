@@ -18,7 +18,7 @@ export default function Home() {
               Bharathnivasan J
             </h1>
             <p className="text-lg font-medium text-indigo-100">
-              Junior Data Analyst • ETL & BI Specialist
+              Aspiring Data Analytics | Data Scientist  & Machine Learning 
             </p>
             <p className="max-w-xl text-base leading-relaxed text-slate-200">
               Analytical and detail-oriented data analyst skilled in Python,
@@ -34,7 +34,7 @@ export default function Home() {
                 Contact Me
               </a>
               <a
-                href="/Bharathnivasan_resume.pdf"
+                href="\Bharathnivasan_Data_Analyst.pdf"
                 className="flex items-center justify-center rounded-full border border-white/30 bg-white/10 px-8 py-3 text-sm font-semibold uppercase tracking-wide text-cyan-200 backdrop-blur transition hover:border-cyan-300 hover:text-white hover:shadow-lg hover:shadow-cyan-500/20"
               >
                 Download Resume
@@ -394,6 +394,28 @@ export default function Home() {
             </div>
             <div className="flex items-center gap-4 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
               <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white/80 text-sm font-semibold uppercase text-slate-900">
+                ETL
+              </div>
+              <div>
+                <p className="text-sm font-semibold text-white">
+                  ETL for Python & SQL
+                </p>
+                <p className="text-xs text-slate-200">LinkedIn Learning</p>
+              </div>
+            </div>
+            <div className="flex items-center gap-4 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
+              <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white/80 text-sm font-semibold uppercase text-slate-900">
+                TCS
+              </div>
+              <div>
+                <p className="text-sm font-semibold text-white">
+                  DataPlus Overview Course
+                </p>
+                <p className="text-xs text-slate-200">TCS MasterCraft Academy</p>
+              </div>
+            </div>
+            <div className="flex items-center gap-4 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
+              <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white/80 text-sm font-semibold uppercase text-slate-900">
                 SF
               </div>
               <div>
@@ -407,14 +429,14 @@ export default function Home() {
             </div>
             <div className="flex items-center gap-4 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
               <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white/80 text-sm font-semibold uppercase text-slate-900">
-                BI
+                Excel
               </div>
               <div>
                 <p className="text-sm font-semibold text-white">
-                  Power BI Specialist
+                  How to Use Lookup Reference Math and Text Functions in Excel
                 </p>
                 <p className="text-xs text-slate-200">
-                  Advanced Dashboard Design Credential
+                  Coursera 
                 </p>
               </div>
             </div>
@@ -429,32 +451,35 @@ export default function Home() {
             </p>
           </div>
           <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-4">
-            <a href="/Bharathnivasan_resume.pdf">
+            <a href="\Data Analytics Using Power BI.png">
               <div className="flex items-center gap-4 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
                 <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white/80 text-sm font-semibold uppercase text-slate-900">
-                  AI
+                  BI
                 </div>
                 <div>
                   <p className="text-sm font-semibold text-white">
-                    Azure AI Fundamentals
+                    Data Analytics Using Power BI Workshop
                   </p>
                   <p className="text-xs text-slate-200">
-                    Microsoft Certified • Ignite
+                    Tech Tip 24
                   </p>
                 </div>
               </div>
             </a>
+            <a href="\Jobaajlearnings-Certificate.jpg">
             <div className="flex items-center gap-4 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
               <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white/80 text-sm font-semibold uppercase text-slate-900">
-                SQL
+                BI
               </div>
               <div>
                 <p className="text-sm font-semibold text-white">
-                  SQL for Data Analysis
+                  Power BI Workshop
                 </p>
-                <p className="text-xs text-slate-200">Udemy Certification</p>
+                <p className="text-xs text-slate-200">Jobaaj Learnings
+                </p>
               </div>
             </div>
+            </a>
             <div className="flex items-center gap-4 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
               <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white/80 text-sm font-semibold uppercase text-slate-900">
                 SF
