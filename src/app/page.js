@@ -368,78 +368,111 @@ export default function Home() {
             </p>
           </div>
           <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-4">
-            <div className="flex items-center gap-4 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
-              <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white/80 text-sm font-semibold uppercase text-slate-900">
-                AI
+            <a href="\Certificates\LinkedIn\ETL in Python and SQL.pdf">
+              <div className="flex items-center gap-4 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
+                <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white/80 text-sm font-semibold uppercase text-slate-900">
+                  ETL
+                </div>
+                <div>
+                  <p className="text-sm font-semibold text-white">
+                    ETL for Python & SQL
+                  </p>
+                  <p className="text-xs text-slate-200">
+                    LinkedIn Learning
+                  </p>
+                </div>
               </div>
-              <div>
-                <p className="text-sm font-semibold text-white">
-                  Azure AI Fundamentals
-                </p>
-                <p className="text-xs text-slate-200">
-                  Microsoft Certified • Ignite
-                </p>
+            </a>
+            <a href="\ETL in Python and SQL.pdf">
+              <div className="flex items-center gap-4 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
+                <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white/80 text-sm font-semibold uppercase text-slate-900">
+                  AI
+                </div>
+                <div>
+                  <p className="text-sm font-semibold text-white">
+                    Azure AI Fundamentals
+                  </p>
+                  <p className="text-xs text-slate-200">
+                    Microsoft Certified • Ignite
+                  </p>
+                </div>
               </div>
-            </div>
-            <div className="flex items-center gap-4 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
-              <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white/80 text-sm font-semibold uppercase text-slate-900">
-                SQL
+            </a>
+            <a href="\ETL in Python and SQL.pdf">
+              <div className="flex items-center gap-4 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
+                <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white/80 text-sm font-semibold uppercase text-slate-900">
+                  SQL
+                </div>
+                <div>
+                  <p className="text-sm font-semibold text-white">
+                    SQL for Data Analysis
+                  </p>
+                  <p className="text-xs text-slate-200">
+                    Udemy Certification
+                  </p>
+                </div>
               </div>
-              <div>
-                <p className="text-sm font-semibold text-white">
-                  SQL for Data Analysis
-                </p>
-                <p className="text-xs text-slate-200">Udemy Certification</p>
+            </a>
+            <a href="/Certificates/TCS iON/DataPlus Overview.pdf">
+              <div className="flex items-center gap-4 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
+                <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white/80 text-sm font-semibold uppercase text-slate-900">
+                  TCS
+                </div>
+                <div>
+                  <p className="text-sm font-semibold text-white">
+                    DataPlus Overview Course
+                  </p>
+                  <p className="text-xs text-slate-200">
+                    TCS MasterCraft Academy
+                  </p>
+                </div>
               </div>
-            </div>
-            <div className="flex items-center gap-4 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
-              <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white/80 text-sm font-semibold uppercase text-slate-900">
-                ETL
+            </a>
+            <a href="\ETL in Python and SQL.pdf">
+              <div className="flex items-center gap-4 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
+                <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white/80 text-sm font-semibold uppercase text-slate-900">
+                  SF
+                </div>
+                <div>
+                  <p className="text-sm font-semibold text-white">
+                    Salesforce Associate
+                  </p>
+                  <p className="text-xs text-slate-200">
+                    SmartInternz • Trailhead Program
+                  </p>
+                </div>
               </div>
-              <div>
-                <p className="text-sm font-semibold text-white">
-                  ETL for Python & SQL
-                </p>
-                <p className="text-xs text-slate-200">LinkedIn Learning</p>
+            </a>
+            <a href="\Certificates\Coursera\How to Use Lookup Reference Math and Text Functions in Excel.pdf">
+              <div className="flex items-center gap-4 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
+                <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white/80 text-sm font-semibold uppercase text-slate-900">
+                  Excel
+                </div>
+                <div>
+                  <p className="text-sm font-semibold text-white">
+                    How to Use Lookup Reference Math and Text Functions in Excel
+                  </p>
+                  <p className="text-xs text-slate-200">
+                    Coursera
+                  </p>
+                </div>
               </div>
-            </div>
-            <div className="flex items-center gap-4 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
-              <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white/80 text-sm font-semibold uppercase text-slate-900">
-                TCS
+            </a>
+            <a href="\Certificates\Coursera\Using Basic Formulas and Functions in Microsoft.pdf">
+              <div className="flex items-center gap-4 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
+                <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white/80 text-sm font-semibold uppercase text-slate-900">
+                  Excel
+                </div>
+                <div>
+                  <p className="text-sm font-semibold text-white">
+                    Using Basic Formulas and Functions in Microsoft Excel
+                  </p>
+                  <p className="text-xs text-slate-200">
+                    Coursera
+                  </p>
+                </div>
               </div>
-              <div>
-                <p className="text-sm font-semibold text-white">
-                  DataPlus Overview Course
-                </p>
-                <p className="text-xs text-slate-200">TCS MasterCraft Academy</p>
-              </div>
-            </div>
-            <div className="flex items-center gap-4 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
-              <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white/80 text-sm font-semibold uppercase text-slate-900">
-                SF
-              </div>
-              <div>
-                <p className="text-sm font-semibold text-white">
-                  Salesforce Associate
-                </p>
-                <p className="text-xs text-slate-200">
-                  SmartInternz • Trailhead Program
-                </p>
-              </div>
-            </div>
-            <div className="flex items-center gap-4 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
-              <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white/80 text-sm font-semibold uppercase text-slate-900">
-                Excel
-              </div>
-              <div>
-                <p className="text-sm font-semibold text-white">
-                  How to Use Lookup Reference Math and Text Functions in Excel
-                </p>
-                <p className="text-xs text-slate-200">
-                  Coursera 
-                </p>
-              </div>
-            </div>
+            </a>
           </div>
         </section>
         {/* Work shops */}
@@ -451,7 +484,7 @@ export default function Home() {
             </p>
           </div>
           <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-4">
-            <a href="\Data Analytics Using Power BI.png">
+            <a href="\Certificates\TechIT24\Data Analytics Using Power BI.png">
               <div className="flex items-center gap-4 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
                 <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white/80 text-sm font-semibold uppercase text-slate-900">
                   BI
@@ -466,7 +499,7 @@ export default function Home() {
                 </div>
               </div>
             </a>
-            <a href="\Jobaajlearnings-Certificate.jpg">
+            <a href="\Certificates\Jobaaj learning\Power BI(Jobaajlearnings-Certificate).jpg">
             <div className="flex items-center gap-4 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
               <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white/80 text-sm font-semibold uppercase text-slate-900">
                 BI
@@ -480,32 +513,36 @@ export default function Home() {
               </div>
             </div>
             </a>
+            <a href="Certificates\Coding Ninja\Sports Analyst.jpg">
             <div className="flex items-center gap-4 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
               <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white/80 text-sm font-semibold uppercase text-slate-900">
-                SF
+                SA
               </div>
               <div>
                 <p className="text-sm font-semibold text-white">
-                  Salesforce Associate
+                  JioHotstar Sports Analytics using IPL Dataset
                 </p>
                 <p className="text-xs text-slate-200">
-                  SmartInternz • Trailhead Program
+                  codingninjas
                 </p>
               </div>
             </div>
+            </a>
+            <a href="\Certificates\Newton\certificate for SQL.pdf">
             <div className="flex items-center gap-4 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
               <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white/80 text-sm font-semibold uppercase text-slate-900">
-                BI
+                SQL
               </div>
               <div>
                 <p className="text-sm font-semibold text-white">
-                  Power BI Specialist
+                  4 Day SQL Basics Course
                 </p>
                 <p className="text-xs text-slate-200">
-                  Advanced Dashboard Design Credential
+                  Newton School
                 </p>
               </div>
             </div>
+            </a>
           </div>
         </section>
 
