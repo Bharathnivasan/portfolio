@@ -428,7 +428,7 @@ export default function Home() {
                 </div>
               </div>
             </a>
-            <a href="\Certificates\Salesforce Associate.pdf">
+            <a href="/Certificates/Salesforce Associate.pdf">
               <div className="flex items-center gap-4 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
                 <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white/80 text-sm font-semibold uppercase text-slate-900">
                   SF
