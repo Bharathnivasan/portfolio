@@ -413,21 +413,6 @@ export default function Home() {
                 </div>
               </div>
             </a>
-            <a href="\Certificates\Coursera\How to Use Lookup Reference Math and Text Functions in Excel.pdf">
-              <div className="flex items-center gap-4 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
-                <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white/80 text-sm font-semibold uppercase text-slate-900">
-                  Excel
-                </div>
-                <div>
-                  <p className="text-sm font-semibold text-white">
-                    How to Use Lookup Reference Math and Text Functions in Excel
-                  </p>
-                  <p className="text-xs text-slate-200">
-                    Coursera
-                  </p>
-                </div>
-              </div>
-            </a>
             <a href="\Certificates\TCS iON\DataPlus Overview.pdf">
               <div className="flex items-center gap-4 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
                 <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white/80 text-sm font-semibold uppercase text-slate-900">
@@ -443,7 +428,7 @@ export default function Home() {
                 </div>
               </div>
             </a>
-            <a href="\Certificates\Coursera\How to Use Lookup Reference Math and Text Functions in Excel.pdf">
+            <a href="/Certificates/Salesforce Associate.pdf">
               <div className="flex items-center gap-4 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
                 <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white/80 text-sm font-semibold uppercase text-slate-900">
                   SF
