@@ -413,6 +413,21 @@ export default function Home() {
                 </div>
               </div>
             </a>
+            <a href="\Certificates\Simplilearn\Databricks for Data Engineering.jpg">
+              <div className="flex items-center gap-4 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
+                <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white/80 text-sm font-semibold uppercase text-slate-900">
+                  Databricks
+                </div>
+                <div>
+                  <p className="text-sm font-semibold text-white">
+                    Get Started with Databricks for Data Engineering
+                  </p>
+                  <p className="text-xs text-slate-200">
+                    Simplilearn
+                  </p>
+                </div>
+              </div>
+            </a>
             <a href="\Certificates\TCS iON\DataPlus Overview.pdf">
               <div className="flex items-center gap-4 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
                 <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white/80 text-sm font-semibold uppercase text-slate-900">
