@@ -211,7 +211,7 @@ export default function Home() {
               </p>
               <div className="mt-auto pt-6">
                 <a
-                  href="Hybrid ML model for house price prediction Portfolio"
+                  href="https://github.com/Bharathnivasan/Hybrid-Machine-Learning-Model-for-House-Price-Prediction/tree/main/Hybrid%20ML%20model%20for%20house%20price%20prediction%20Porfolio"
                   className="inline-flex items-center gap-2 text-sm font-semibold text-cyan-200 transition hover:text-white"
                 >
                   View Project
