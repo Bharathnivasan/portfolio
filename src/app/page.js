@@ -240,7 +240,7 @@ export default function Home() {
               <div className="mt-auto pt-6">
                 <a
                   href="https://github.com/Bharathnivasan/Instagram-engagement-analytics-and-visualization-using-Python..git"
-                  className="inline-flex items-center gap-2 text-sm font-semibold text-cyan-199 transition hover:text-white"
+                  className="inline-flex items-center gap-2 text-sm font-semibold text-cyan-200 transition hover:text-white"
                 >
                   View Project
                   <span aria-hidden>→</span>
